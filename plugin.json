@@ -2,7 +2,7 @@
   "id": "nodebb-plugin-imgbed",
   "name": "Imgbed",
   "description": "Embeds images into a post with a simple image url.",
-  "url": "https://github.com/bdharrington7/nodebb-plugin-imgbed",
+  "url": "https://github.com/spin0us/nodebb-plugin-imgbed",
   "library": "./library.js",
   "staticDirs": {
   },
